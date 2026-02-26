@@ -1,1 +1,0 @@
-[AWS Graviton](https://aws.amazon.com/ec2/graviton/) is a custom-built ARM-based processor designed by AWS for cloud workloads.

@@ -1,1 +1,0 @@
-[Course](https://sites.google.com/view/ssukree/courses/2110747-social-network-analysis-12025?authuser=0)

@@ -1,1 +1,0 @@
-[Course](https://sites.google.com/view/ssukree/courses/2110654-artificial-intelligence-master-course-12025?authuser=0)

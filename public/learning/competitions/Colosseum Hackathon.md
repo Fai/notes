@@ -1,1 +1,0 @@
-[Playbook](https://superteam-japan.gitbook.io/hackathon-playbook)

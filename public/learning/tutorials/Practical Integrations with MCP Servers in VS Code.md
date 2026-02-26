@@ -1,2 +1,0 @@
-10 July, 2025 | 11:00 PM - 12:00 AM (UTC+07:00)
-[Microsoft Reactor Events](https://developer.microsoft.com/en-us/reactor/events/25942/?event_check_in=Eq3QCkbFVFZQDYnhbz76uXvkBdlcY/KJMf1L%20Wk7V%20y%20477l6086QKG/yLugSyAM%207EYHeKcJ7AOvM2XRnqpOg==)

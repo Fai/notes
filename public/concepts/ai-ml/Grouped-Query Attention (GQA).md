@@ -1,1 +1,0 @@
-Unlike [[Multi-Head Attention (MHA)]], where each head also has its own set of keys and values, to reduce memory usage, GQA groups multiple heads to share the same key and value projections

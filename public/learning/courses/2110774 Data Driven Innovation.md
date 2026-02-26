@@ -1,1 +1,0 @@
-https://sites.google.com/view/ssukree/courses/2110774-data-driven-innovation-12025?authuser=0

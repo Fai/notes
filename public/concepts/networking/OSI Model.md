@@ -1,1 +1,0 @@
-Open Systems Interconnection Model

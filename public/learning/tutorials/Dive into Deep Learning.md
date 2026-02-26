@@ -1,1 +1,0 @@
-https://d2l.ai

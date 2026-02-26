@@ -1,1 +1,0 @@
-https://docs.hypermode.com/agents/30-days-of-agents/overview

@@ -1,1 +1,0 @@
-[Course](https://sites.google.com/view/ssukree/courses/2190101-temporary?authuser=0)
