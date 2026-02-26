@@ -4,6 +4,8 @@ tags: [event, workshop, genai, evaluation]
 created: 2026-02-26
 ---
 
+# Rubric-Based Evaluation for GenAI
+
 [Webinar](https://encord.com/webinar/generative-ai-evaluation/) by [[Encord]] and [[Weight & Bias]]
 
 Speakers

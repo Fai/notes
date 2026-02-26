@@ -1,5 +1,5 @@
 ---
-title: "AI Research Weekly Report 2025"
+title: "AI Research Weekly Report - 2025"
 tags: [research, ai, weekly-summary]
 created: 2026-02-26
 ---

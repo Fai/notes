@@ -1,5 +1,5 @@
 ---
-title: "Bedrock Cost Control Quick Reference"
+title: "Bedrock Cost Control - Quick Reference Guide"
 tags: [research, aws, bedrock, cost]
 created: 2025-12-18
 ---

@@ -1,5 +1,5 @@
 ---
-title: "AWS Certified AI Practitioner Study Guide"
+title: "AWS Certified AI Practitioner (AIF-C01) Study Guide"
 tags: [learning, certification, aws, ai]
 created: 2025-12-18
 ---

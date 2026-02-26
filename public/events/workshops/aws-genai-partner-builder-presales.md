@@ -4,6 +4,8 @@ tags: [event, workshop, aws, genai, presales]
 created: 2026-02-26
 ---
 
+# AWS Data & Generative AI Partner Builder
+
 # Schedule
 
 Timings (Duration) Session Title Sub-topics

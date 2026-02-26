@@ -4,6 +4,8 @@ tags: [concept, programming, frontend]
 created: 2026-02-26
 ---
 
+# Angular
+
 ## Resources
 - [Angular](https://angular.dev/)
 - [Tutorial](https://angular.dev/tutorials/learn-angular/)

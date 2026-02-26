@@ -1,5 +1,5 @@
 ---
-title: "RDS Proxy Troubleshooting"
+title: "RDS Proxy Troubleshooting Guide"
 title: "RDS Proxy Troubleshooting"
 tags: [aws, rds, rds-proxy, database, troubleshooting]
 created: 2025-12-18

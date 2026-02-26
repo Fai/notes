@@ -4,6 +4,8 @@ tags: [learning, tutorial, aws, amazon-q]
 created: 2026-02-26
 ---
 
+# Amazon Q Developer Workshop
+
 #aws
 
 [Amazon Q Developer - Getting Started from Build to Operate](https://catalog.us-east-1.prod.workshops.aws/workshops/86ecf440-3222-4879-836e-995e5919892c/en-US "https://catalog.us-east-1.prod.workshops.aws/workshops/86ecf440-3222-4879-836e-995e5919892c/en-US")

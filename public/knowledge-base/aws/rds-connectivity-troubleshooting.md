@@ -1,5 +1,5 @@
 ---
-title: "RDS Connectivity Troubleshooting"
+title: "RDS Connectivity Troubleshooting Guide"
 title: "RDS Connectivity Troubleshooting"
 tags: [aws, rds, database, postgresql, troubleshooting]
 created: 2025-12-18

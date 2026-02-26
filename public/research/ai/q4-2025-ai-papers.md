@@ -1,5 +1,5 @@
 ---
-title: "Q4 2025 AI Research Papers"
+title: "Q4 2025 AI Research Papers Summary"
 tags: [research, ai, papers]
 created: 2026-02-26
 ---

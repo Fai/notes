@@ -1,5 +1,5 @@
 ---
-title: "Monitoring Setup"
+title: "Monitoring Setup Guide"
 title: "Monitoring Setup"
 tags: [best-practices, monitoring, aws, observability]
 created: 2025-12-18

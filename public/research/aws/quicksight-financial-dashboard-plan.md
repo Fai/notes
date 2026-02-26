@@ -1,5 +1,5 @@
 ---
-title: "QuickSight Financial Dashboard Plan"
+title: "QuickSight Financial Advisor Dashboard Plan"
 tags: [research, aws, quicksight, fintech]
 created: 2025-12-18
 ---

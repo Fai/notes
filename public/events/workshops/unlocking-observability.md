@@ -4,6 +4,8 @@ tags: [event, workshop, observability]
 created: 2026-02-26
 ---
 
+# Unlocking the Black Box: True Observability in Action
+
 **Host:** Splunk & Techsauce
 **Date:** July 23, 2025  
 **Time:** 10:00 AM ICT

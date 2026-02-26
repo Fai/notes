@@ -4,6 +4,8 @@ tags: [concept, programming]
 created: 2026-02-26
 ---
 
+# Python
+
 ## Documentation
 ```python
 help(list) # ใช้ help เพื่อดูคำอธิบาย

@@ -1,5 +1,5 @@
 ---
-title: "EKS Node Management"
+title: "EKS Node Management Guide"
 title: "EKS Node Management"
 tags: [aws, eks, kubernetes, karpenter, autoscaling]
 created: 2025-12-18

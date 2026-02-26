@@ -1,5 +1,5 @@
 ---
-title: "AWS Certified Security Specialty Study Guide"
+title: "AWS Certified Security Specialty (SCS-C02) Study Guide"
 tags: [learning, certification, aws, security]
 created: 2025-12-18
 ---

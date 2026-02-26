@@ -1,5 +1,5 @@
 ---
-title: "Bedrock Cost Control Guide"
+title: "Cost Control & Budget Management for Bedrock/SageMaker"
 tags: [research, aws, bedrock, cost]
 created: 2025-12-18
 ---

@@ -1,5 +1,5 @@
 ---
-title: "AWS Certified Cloud Practitioner Study Guide"
+title: "AWS Certified Cloud Practitioner (CLF-C02) Study Guide"
 tags: [learning, certification, aws]
 created: 2025-12-18
 ---
