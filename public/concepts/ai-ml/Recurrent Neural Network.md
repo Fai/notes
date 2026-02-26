@@ -1,0 +1,2 @@
+- design to capture time information from dat
+- take a part of the output from previous time step as input in current time step

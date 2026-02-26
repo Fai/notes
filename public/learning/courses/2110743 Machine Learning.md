@@ -1,0 +1,1 @@
+[Course](https://sites.google.com/view/ssukree/courses/2110743-machine-learning-22024?authuser=0)

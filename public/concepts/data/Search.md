@@ -1,0 +1,3 @@
+- Exact Match
+- Pattern Matching
+- Elastic Search (BM25)
