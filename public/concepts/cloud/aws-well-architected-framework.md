@@ -4,6 +4,8 @@ tags: [concept, aws, architecture]
 created: 2026-02-26
 ---
 
+# AWS Well-Architected Framework
+
 Sustainability pillar
 - Alignment to demand - Ensuring capacity and usage match workload requirements to avoid over-provisioning.
 - Software and architecture - Designing applications to be efficient, reusable and long-lived. Using managed services and serverless technologies.

@@ -4,6 +4,8 @@ tags: [learning, tutorial, ai-agents]
 created: 2026-02-26
 ---
 
+# Building a Coding Agent from Scratch
+
 **Date & Time:** Tuesday, 06/03, 9:00 AM PT
 https://www.youtube.com/watch?v=1Fndxrz_mTk
 

@@ -4,6 +4,8 @@ tags: [concept, devops, architecture]
 created: 2026-02-26
 ---
 
+# The Twelve-Factor App
+
 [The Twelve-Factor App](https://12factor.net/)
 
 **Mindset to build scalable apps**

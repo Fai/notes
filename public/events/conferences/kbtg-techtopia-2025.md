@@ -4,6 +4,8 @@ tags: [event, conference, fintech]
 created: 2026-02-26
 ---
 
+# KBTG Techtopia 2025
+
 09:00 - 09:20 Stage 1 : How can AI Change Humanity and How can Humans change the world
 - AI Transformation = Use case + Data + AI Model + Process + Governance + Human in. the loop + Leadership + Holistic Change Management
 - Crossroad : AI Agents, Governing and Containing AI, Practical vs AGI, Global Collaboration, Holy Grail of Technology (demand resources), AI Leveling the play field for all (democratize intelligence)

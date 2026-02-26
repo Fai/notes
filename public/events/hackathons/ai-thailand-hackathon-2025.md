@@ -9,7 +9,7 @@ created: 2026-02-26
 ## Online Workshop
 วันเวลา: 24/07/2568 9:00-12:00
 [Meeting](https://meeting-nstda.webex.com/meeting-nstda/j.php?MTID=m8b7eda1ca61233a3fef8fb03749c418b)
-[Recording](https://meeting-nstda.webex.com/recordingservice/sites/meeting-nstda/recording/playback/fe36b8d4425c4880b897fe812ef0427a "https://meeting-nstda.webex.com/recordingservice/sites/meeting-nstda/recording/playback/fe36b8d4425c4880b897fe812ef0427a") password: `sNmKrsE5`
+[Recording](https://meeting-nstda.webex.com/recordingservice/sites/meeting-nstda/recording/playback/fe36b8d4425c4880b897fe812ef0427a) password: `sNmKrsE5`
 
 # On-Site Hackathon
 บ้านวิทยาศาสตร์สิรินธร สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ

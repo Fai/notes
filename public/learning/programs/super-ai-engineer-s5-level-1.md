@@ -6,7 +6,6 @@ created: 2026-02-26
 
 # Super AI Engineer Season 5 — Level 1
 
-#SuperAIEngineer
 # Theory Assessment
 
 ## AI Ethics

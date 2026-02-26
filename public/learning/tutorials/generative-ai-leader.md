@@ -4,6 +4,8 @@ tags: [learning, tutorial, genai]
 created: 2026-02-26
 ---
 
+# Generative AI Leader
+
 [Google Cloud Skill Boost](https://www.cloudskillsboost.google/paths/1951)
 [YouTube Playlist](https://www.youtube.com/watch?v=vvS10HwrDtY&list=PLBgogxgQVM9sYOdfEVGux1sbOqbLm1Mxz)
 

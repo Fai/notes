@@ -4,6 +4,8 @@ tags: [learning, tutorial, rag, genai]
 created: 2026-02-26
 ---
 
+# Evaluating & Optimizing RAG
+
 ## **Part 1: "I don't use RAG, I just retrieve documents"**
 
 With [Ben Clavié](https://click.convertkit-mail2.com/o8u22w0432sqh68wolmhvhq2mvrrrhoh97g7e/g3hnhwumo5qq27u3/aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20vY2l0YXRpb25zP2hsPWVuJnVzZXI9dnVNbG45OEFBQUFK), who has created projects like [RAGatouille](https://click.convertkit-mail2.com/o8u22w0432sqh68wolmhvhq2mvrrrhoh97g7e/9qhzhdud3m558qiz/aHR0cHM6Ly9naXRodWIuY29tL2Fuc3dlcmRvdGFpL3JhZ2F0b3VpbGxl) and the [rerankers](https://click.convertkit-mail2.com/o8u22w0432sqh68wolmhvhq2mvrrrhoh97g7e/3ohphdu39lpp82bp/aHR0cHM6Ly9naXRodWIuY29tL2Fuc3dlcmRvdGFpL3JlcmFua2Vycw==) library, which broaden access to state-of-the-art retrieval methods. Recently, Ben also co-led the [ModernBERT project](https://click.convertkit-mail2.com/o8u22w0432sqh68wolmhvhq2mvrrrhoh97g7e/wnh2h6uqvp00d3cl/aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9ibG9nL21vZGVybmJlcnQ=), which has modernized the widely used BERT backbone.

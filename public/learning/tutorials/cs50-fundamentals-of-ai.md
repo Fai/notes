@@ -4,6 +4,8 @@ tags: [learning, tutorial, ai]
 created: 2026-02-26
 ---
 
+# CS50 Fundamentals of AI
+
 To attend via Zoom (or YouTube), see [cs50.ly/zoom](https://cs50.ly/zoom) for URLs. 
 
 On the agenda:

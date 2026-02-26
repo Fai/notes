@@ -4,6 +4,8 @@ tags: [learning, tutorial, aws]
 created: 2026-02-26
 ---
 
+# AWS Technical Essentials
+
 AWS provides cloud computing services.
 - [What Is Cloud Computing?](https://aws.amazon.com/what-is-cloud-computing/)
 - [Types of Cloud Computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/types-of-cloud-computing.html)
