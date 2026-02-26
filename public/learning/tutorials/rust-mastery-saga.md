@@ -6,8 +6,8 @@ created: 2026-02-26
 
 # Rust Mastery Saga
 
-## Module 1
-## ทำไมต้องเขียน Rust
+## Module 1 — ทำไมต้องเขียน Rust
+
 - Rustacean คนที่เขียน Rust
 - Ferris เป็น Mascot
 - ปัญหาของ Stack กับ Heap ในภาษา C ที่คนต้องจัดการ  memory เอง
