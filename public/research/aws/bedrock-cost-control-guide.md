@@ -1,3 +1,9 @@
+---
+title: "Bedrock Cost Control Guide"
+tags: [research, aws, bedrock, cost]
+created: 2025-12-18
+---
+
 # Cost Control & Budget Management for Bedrock/SageMaker
 ## Per-User Token Limits, Budget Alerts, and Throttling
 

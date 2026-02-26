@@ -1,3 +1,9 @@
+---
+title: "AWS Certified AI Practitioner Study Guide"
+tags: [learning, certification, aws, ai]
+created: 2025-12-18
+---
+
 # AWS Certified AI Practitioner (AIF-C01) Study Guide
 
 Foundational certification covering AI/ML concepts and AWS AI services.

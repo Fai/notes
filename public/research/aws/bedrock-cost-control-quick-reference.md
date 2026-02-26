@@ -1,3 +1,9 @@
+---
+title: "Bedrock Cost Control Quick Reference"
+tags: [research, aws, bedrock, cost]
+created: 2025-12-18
+---
+
 # Bedrock Cost Control - Quick Reference Guide
 
 ## Disable API Key When User Reaches Limit

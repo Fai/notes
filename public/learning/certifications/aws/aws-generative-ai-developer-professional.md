@@ -1,3 +1,9 @@
+---
+title: "AWS Certified Generative AI Developer Professional Study Guide"
+tags: [learning, certification, aws, genai]
+created: 2025-12-18
+---
+
 # AWS Certified Generative AI Developer Professional Study Guide
 
 Comprehensive study guide for the AWS Generative AI Developer Professional certification.

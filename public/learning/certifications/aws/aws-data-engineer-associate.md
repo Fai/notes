@@ -1,3 +1,9 @@
+---
+title: "AWS Certified Data Engineer Associate Study Guide"
+tags: [learning, certification, aws, data]
+created: 2025-12-18
+---
+
 # AWS Certified Data Engineer Associate Study Guide
 
 Study guide for the AWS Data Engineer Associate certification.

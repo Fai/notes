@@ -1,3 +1,9 @@
+---
+title: "AWS Certified Cloud Practitioner Study Guide"
+tags: [learning, certification, aws]
+created: 2025-12-18
+---
+
 # AWS Certified Cloud Practitioner (CLF-C02) Study Guide
 
 Entry-level certification covering AWS Cloud fundamentals.

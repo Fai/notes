@@ -1,3 +1,9 @@
+---
+title: "AWS Certification Study Resources"
+tags: [learning, certification, aws]
+created: 2025-12-18
+---
+
 # AWS Certification Study Resources
 
 Curated resources for AWS certification preparation.

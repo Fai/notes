@@ -166,7 +166,7 @@ export AWS_SESSION_TOKEN="<REDACTED>"
 ```
 ```
 AgentCoreRoleArn
-arn:aws:iam::432739071954:role/agentcore-agent-role
+<REDACTED_ARN>
 agent-workshop-cfn
 ARN of the IAM role for Strands Agents workshop
 output
@@ -176,27 +176,27 @@ agent-workshop-cfn
 Name of the IAM role for Strands Agents workshop
 output
 Password
-2DyBTnat4Ttklhnj
+<REDACTED>
 agent-workshop-cfn
 Code-server Password
-output
+<REDACTED>
 RDPAddress
-54.201.168.238:3389
+<REDACTED>
 agent-workshop-cfn
 RDP connection address (IP:port)
 output
 RDPPassword
-2DyBTnat4Ttklhnj
+<REDACTED>
 agent-workshop-cfn
 Password for RDP access
 output
 RDPUsername
-ubuntu
+<REDACTED>
 agent-workshop-cfn
 Username for RDP access
 output
 URL
-https://d13r78vhodmik4.cloudfront.net/?folder=/home/ubuntu/agentic-workshop/
+https://<REDACTED>
 agent-workshop-cfn
 Code-server URL
 output

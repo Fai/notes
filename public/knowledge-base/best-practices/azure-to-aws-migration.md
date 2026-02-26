@@ -1,8 +1,11 @@
 ---
+title: "Azure to AWS Migration Checklist"
+title: "Azure to AWS Migration Checklist"
 tags: [best-practices, migration, azure, aws, checklist]
 created: 2025-12-19
 updated: 2025-12-19
 ---
+title: "Azure to AWS Migration Checklist"
 
 # Azure to AWS Migration Checklist
 
@@ -91,6 +94,7 @@ Application-level checklist for migrating from Azure to AWS.
 - [ ] Final data sync before cutover
 
 ---
+title: "Azure to AWS Migration Checklist"
 
 ## Service Mapping Reference
 

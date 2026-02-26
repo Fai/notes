@@ -1,4 +1,5 @@
 ---
+title: "QuickSight Financial Dashboard — Thailand"
 created: 2025-12-12
 updated: 2025-12-12
 tags: [research, aws, quicksight, fintech, thailand, dashboard, api]
