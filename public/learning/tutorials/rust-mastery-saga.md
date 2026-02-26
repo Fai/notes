@@ -4,7 +4,9 @@ tags: [learning, tutorial, rust]
 created: 2026-02-26
 ---
 
-# Module 1
+# Rust Mastery Saga
+
+## Module 1
 ## ทำไมต้องเขียน Rust
 - Rustacean คนที่เขียน Rust
 - Ferris เป็น Mascot
@@ -26,7 +28,7 @@ Pattern การตั้งคำถาม
 1. ติดปัญหาอะไร
 2. Code เขียนไว้อย่างไร หรือถ้าไม่มี Code ก็ไม่เป็นไร
 3. ลองพยายามแก้ไขอะไรไปแล้วบ้าง
-# Module 2
+## Module 2
 ## Website
 - [[HTML]]
 - [[CSS]]
@@ -71,7 +73,7 @@ TCP/IP Model
 - [[RESTful API]]
 - [[JWT (JSON Web Token)]] ใช้ยืนยันตัวตน
 
-# Module 3
+## Module 3
 
 [[Rust]] 101
 - สร้างโปรเจคใหม่ด้วย `cargo new ชื่อโปรเจค`

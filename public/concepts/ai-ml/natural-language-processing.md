@@ -4,21 +4,35 @@ tags: [concept, ai-ml, nlp]
 created: 2026-02-26
 ---
 
-History
-- 1954 Bag of Words
-- 1972 TF-IDF
-- 1997 RNN
-- 2013 Word2Vec
+# Natural Language Processing
 
-Q K V Concept
-- Query
-- Key
-- Value
-Softmax
-- Sharpen Attention
-- Scale values to a probability distribution tat adds up to
-Attention(Q,K,V) = softmax(Q คูณ K Transpose หารด้วย sq.root (dimension ของ k)) คูณ V
-Attention
-- Self-attention: Q K V from same
-- Cross Attention: Q K V from different
-- Multi-headed Attention: applied multiple times in parallel with different initialized weights for learning a different representation
+## History
+
+| Year | Milestone |
+|------|-----------|
+| 1954 | Bag of Words |
+| 1972 | TF-IDF |
+| 1997 | RNN |
+| 2013 | Word2Vec |
+
+## Q K V Concept
+
+- **Query** — what we're looking for
+- **Key** — what each token offers
+- **Value** — the actual content to retrieve
+
+**Attention formula:**
+
+```
+Attention(Q, K, V) = softmax(Q · Kᵀ / √dₖ) · V
+```
+
+**Softmax** sharpens attention by scaling values to a probability distribution that adds up to 1.
+
+## Attention Types
+
+| Type | Description |
+|------|-------------|
+| Self-Attention | Q, K, V all come from the same sequence |
+| Cross-Attention | Q, K, V come from different sequences |
+| Multi-Head Attention | Applied multiple times in parallel with different initialized weights to learn different representations |

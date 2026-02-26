@@ -2,11 +2,14 @@
 title: "Getting Started as a Software Tester"
 tags: [learning, tutorial, testing]
 created: 2026-02-26
+date: 2025-06-14
 ---
 
-2025/06/14
-Miro board : sck.pub/ks-4-ts
-# Software Tester
+# Getting Started as a Software Tester
+
+Miro board: [sck.pub/ks-4-ts](https://sck.pub/ks-4-ts)
+
+## Software Tester
 Software Tester ต้องรู้อะไรบ้าง สำหรับผู้เริ่มต้นในสายงานนี้[1](https://www.youtube.com/watch?v=SFQ94maoWuk)[2](https://www.youtube.com/watch?v=N5YMrQjyTfI)[3](https://www.youtube.com/watch?v=Yoi5k3q5XFA)[4](https://www.youtube.com/watch?v=0GJxBRwEmik)
 General Software Test Process
 General Software Test Life Cycle (STLC) ซึ่งเชื่อมโยงกับ Software Development Life Cycle (SDLC)
