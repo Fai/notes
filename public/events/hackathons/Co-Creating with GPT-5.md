@@ -1,1 +1,0 @@
-https://lablab.ai/event/co-creating-with-gpt-5

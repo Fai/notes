@@ -7,6 +7,9 @@ Research on AWS services, architectures, and integrations.
 ### Analytics & BI
 - [[quicksight-financial-dashboard-thailand|QuickSight Financial Dashboard - Thailand]]
 
+### AI & ML Services
+- [[aws-recommendation-personalization-services-2025|AWS Recommendation & Personalization Services — Pre-Sales Brief]]
+
 ### Architecture Patterns
 > ETL, data pipelines, serverless
 
