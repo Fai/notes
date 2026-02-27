@@ -1,6 +1,5 @@
 ---
 title: "Migration Checklist"
-title: "Migration Checklist"
 tags: [best-practices, migration, checklist, operations]
 created: 2025-12-18
 updated: 2025-12-18

@@ -1,6 +1,5 @@
 ---
 title: "Azure to AWS Migration Checklist"
-title: "Azure to AWS Migration Checklist"
 tags: [best-practices, migration, azure, aws, checklist]
 created: 2025-12-19
 updated: 2025-12-19

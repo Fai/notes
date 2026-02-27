@@ -1,6 +1,5 @@
 ---
 title: "ECS Troubleshooting Guide"
-title: "ECS Troubleshooting"
 tags: [aws, ecs, fargate, containers, troubleshooting]
 created: 2025-12-18
 updated: 2025-12-18

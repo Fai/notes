@@ -1,6 +1,5 @@
 ---
 title: "Knowledge Extraction Checklist"
-title: "Knowledge Extraction Checklist"
 tags: [best-practices, documentation, knowledge-management]
 created: 2025-12-18
 updated: 2025-12-18

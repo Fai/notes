@@ -1,6 +1,5 @@
 ---
 title: "Incident Response Best Practices"
-title: "Incident Response"
 tags: [best-practices, incident-response, operations, runbook]
 created: 2025-12-18
 updated: 2025-12-18

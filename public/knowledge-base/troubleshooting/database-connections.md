@@ -1,6 +1,5 @@
 ---
 title: "Database Connection Troubleshooting"
-title: "Database Connection Troubleshooting"
 tags: [database, troubleshooting, connectivity, connection-pool]
 created: 2025-12-18
 updated: 2025-12-18
