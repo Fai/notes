@@ -28,7 +28,6 @@ Methodologies, frameworks, soft skills
 ## Quick Links
 
 - Most referenced: [[Large Language Model (LLM)]], [[Machine Learning]], [[Docker]]
-- AWS: [[AWS Well-Architected Framework]], [[AWS Graviton]]
 - AI: [[Transformer]], [[Retrieval Augmented Generation (RAG)]]
 
 ## Related

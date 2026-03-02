@@ -10,6 +10,7 @@ Research on AWS services, architectures, and integrations.
 ### AI & ML Services
 - [[aws-recommendation-personalization-services-2025|AWS Recommendation & Personalization Services — Pre-Sales Brief]]
 - [[nosto-vs-aws-recommendation-comparison|Nosto vs AWS Recommendation Services — Comparison]]
+- [[bedrock-cost-control-quick-reference|Bedrock Cost Control — Quick Reference]]
 
 ### Architecture Patterns
 > ETL, data pipelines, serverless
