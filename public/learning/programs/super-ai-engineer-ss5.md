@@ -1,12 +1,12 @@
 ---
-title: "Super AI Engineer Season 5 — Level 1"
+title: "Super AI Engineer Season 5"
 tags: [learning, program, ai]
 created: 2026-02-26
 ---
 
-# Super AI Engineer Season 5 — Level 1
+# Super AI Engineer Season 5
 
-# Theory Assessment
+# Level 1 Theory Assessment
 
 ## AI Ethics
 - Diversity พัฒนาให้เกิดประโยชน์ต่อผู้คนมากเท่าที่ทำได้ คำนึงถึงความหลากหลาย หลีกเลี่ยงการผูกขาดแบ่งแยกและเอนเอียง
@@ -388,6 +388,7 @@ NODE-RED
 	- group จัดกลุ่ม มีได้หลาย group ใน tag
 	- widget แสดง ui ย่อย
 Baud Rate คืออัตราเร็วในการรับส่งข้อมูลที่ต้องกำหนดค่า
+
 ## Assessment Review
 [Acha](https://drive.google.com/drive/folders/10Xl5-qGjKP5OX6_4R7vgIb7M1B40xeXF)
 [OAP - Three](https://docs.google.com/document/d/1oMQPiE8RH0IaSIHelnUnFmuiRRrGsfWHw22bk1AkrVM/edit?tab=t.0)
