@@ -1,17 +1,7 @@
----
-title: "AI Research"
-tags: [research, ai, moc]
-created: 2026-02-26
----
-
-# AI Research MOC
+# AI Research
 
 Summaries of AI research papers, weekly updates, and industry trends.
 
-## Reports & Summaries
-- [[ai-research-weekly-report-2025|AI Research Weekly Report 2025]]
-- [[ai-updates-2025-11-03|AI Updates — November 2025]]
-- [[q4-2025-ai-papers|Q4 2025 AI Research Papers]]
-
----
-#moc #research #ai
+- [AI Research Weekly Report 2025](ai-research-weekly-report-2025.md) — Weekly paper summaries
+- [AI Updates — November 2025](ai-updates-2025-11-03.md) — Industry news roundup
+- [Q4 2025 AI Research Papers](q4-2025-ai-papers.md) — Quarterly paper highlights

@@ -1,41 +1,11 @@
-# Research MOC
+# Research
 
-Map of Content for academic papers and research.
+AWS service evaluations, AI paper summaries, and industry analysis.
 
-## Categories
+## [AWS Research](aws/_index.md)
 
-### [[research/llm/|LLM Research]]
-Large Language Models, reasoning, evaluation
+QuickSight, Bedrock cost control, recommendation services.
 
-### [[research/speech/|Speech Research]]
-ASR, TTS, audio processing
+## [AI Research](ai/_index.md)
 
-### [[research/vision/|Vision Research]]
-Computer vision, image/video generation
-
-### [[research/systems/|Systems Research]]
-CUDA, optimization, infrastructure
-
-### [[research/aws/|AWS Research]]
-AWS services, architectures, QuickSight, data pipelines
-
-## Weekly Reports
-- [[ai-research-weekly-report-2025]]
-
-## Reading Queue
-> Papers to read
-
-- [ ]
-
-## Key Insights
-> Important takeaways from papers
-
--
-
-## Related
-
-- [[concepts/ai-ml/_index|AI Concepts]]
-- [[learning/_index|Learning Resources]]
-
----
-#moc #research #papers
+Weekly AI paper summaries and industry trend reports.

@@ -1,39 +1,19 @@
-# Concepts MOC
+# Concepts
 
-Map of Content for technical concepts and reference notes.
+Reference definitions for technical terms and tools.
 
-## Categories
+## AI & Machine Learning
 
-### AI & Machine Learning
-Artificial Intelligence, Machine Learning, LLMs, NLP, Computer Vision
+- [HuggingFace](ai-ml/huggingface.md) — Model hub, Transformers library
+- [Natural Language Processing](ai-ml/natural-language-processing.md) — NLP fundamentals
 
-### Cloud Computing
-AWS, GCP, Azure, cloud platforms and services
+## DevOps
 
-### Programming
-Languages, frameworks, and development tools
+- [12-Factor App](devops/12-factor.md) — Methodology for building SaaS apps
+- [ISO 29110](devops/iso-29110.md) — Software lifecycle standard for small organizations
 
-### Data
-Data science, databases, analytics
+## Programming
 
-### Networking
-Protocols, APIs, network architecture
-
-### DevOps
-Infrastructure, CI/CD, containerization
-
-### Business
-Methodologies, frameworks, soft skills
-
-## Quick Links
-
-- Most referenced: [[Large Language Model (LLM)]], [[Machine Learning]], [[Docker]]
-- AI: [[Transformer]], [[Retrieval Augmented Generation (RAG)]]
-
-## Related
-
-- [[learning/_index|Learning Resources]]
-- [[research/_index|Research Papers]]
-
----
-#moc #concepts
+- [Angular](programming/angular.md) — TypeScript web framework
+- [RxJS](programming/rxjs.md) — Reactive Extensions for JavaScript
+- [NestJS](programming/nestjs.md) — Node.js server-side framework

@@ -1,43 +1,20 @@
-# Learning MOC
+# Learning
 
-Map of Content for courses, certifications, and learning resources.
+Certification study guides, tutorials, and training programs.
 
-## Categories
+## [AWS Certifications](certifications/_index.md)
 
-### University Courses
-Formal academic courses with course codes
+Study guides for AWS exams — foundational through specialty.
 
-### [[learning/certifications/_index|Certifications]]
-AWS, Cisco, Fortinet professional certifications
+## Tutorials
 
-### Tutorials
-Online courses, workshops, and self-paced learning
+- [Amazon Q Developer Workshop](tutorials/amazon-q-developer-workshop.md) — Hands-on with Q Developer
+- [AWS Technical Essentials](tutorials/aws-technical-essentials.md) — Core AWS services overview
+- [Evaluating & Optimizing RAG](tutorials/evaluating-optimizing-rag.md) — RAG pipeline evaluation
+- [LLM Interview Questions](tutorials/llm-interview-questions.md) — Common LLM/AI interview prep
+- [Rust Mastery Saga](tutorials/rust-mastery-saga.md) — Rust learning path
+- [Getting Started as Software Tester](tutorials/getting-started-software-tester.md) — QA fundamentals
 
-### Programs
-Degree programs and long-term training
+## Programs
 
-### Competitions
-Hackathons, challenges, and competitions
-
-## Currently Learning
-> Add your active courses here
-
-- [ ]
-
-## Completed
-> Track your achievements
-
-- [ ]
-
-## Want to Learn
-> Backlog of interesting courses
-
-- [ ]
-
-## Related
-
-- [[concepts/_index|Technical Concepts]]
-- [[research/_index|Research Papers]]
-
----
-#moc #learning
+- [Super AI Engineer SS5](programs/super-ai-engineer-ss5.md) — AIAT national AI training program

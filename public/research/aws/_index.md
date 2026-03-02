@@ -1,28 +1,13 @@
-# AWS Research MOC
+# AWS Research
 
 Research on AWS services, architectures, and integrations.
 
-## Topics
+## Analytics & BI
 
-### Analytics & BI
-- [[quicksight-financial-dashboard-thailand|QuickSight Financial Dashboard - Thailand]]
+- [QuickSight Financial Dashboard — Thailand](quicksight-financial-dashboard-thailand.md) — ETL pipeline architecture for Thai financial data
 
-### AI & ML Services
-- [[aws-recommendation-personalization-services-2025|AWS Recommendation & Personalization Services — Pre-Sales Brief]]
-- [[nosto-vs-aws-recommendation-comparison|Nosto vs AWS Recommendation Services — Comparison]]
-- [[bedrock-cost-control-quick-reference|Bedrock Cost Control — Quick Reference]]
+## AI & ML Services
 
-### Architecture Patterns
-> ETL, data pipelines, serverless
-
-### Best Practices
-> Well-Architected Framework, security, cost optimization
-
----
-
-## Related
-
-- [[research/_index|Research MOC]]
-
----
-#moc #aws #research
+- [AWS Recommendation & Personalization Services](aws-recommendation-personalization-services-2025.md) — Pre-sales brief
+- [Nosto vs AWS Recommendation Services](nosto-vs-aws-recommendation-comparison.md) — Feature comparison
+- [Bedrock Cost Control — Quick Reference](bedrock-cost-control-quick-reference.md) — API Gateway quotas, Lambda throttling

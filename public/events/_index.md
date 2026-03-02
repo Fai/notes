@@ -1,39 +1,18 @@
-# Events MOC
+# Events
 
-Map of Content for conferences, hackathons, and workshops.
+Notes from conferences, hackathons, and workshops.
 
-## Categories
+## Conferences
 
-### [[events/conferences/|Conferences]]
-Major tech conferences and summits
+- [KBTG Techtopia 2025](conferences/kbtg-techtopia-2025.md) — KBTG annual tech conference
+- [Tech Sauce Global Summit 2025](conferences/tech-sauce-global-summit-2025.md) — Bangkok tech summit
 
-### [[events/hackathons/|Hackathons]]
-Coding competitions and challenges
+## Hackathons
 
-### [[events/workshops/|Workshops]]
-Webinars, tech talks, and hands-on sessions
+- [AI Thailand Hackathon 2025](hackathons/ai-thailand-hackathon-2025.md) — National AI competition
 
-## Upcoming Events
-> Events you plan to attend
+## Workshops
 
-- [ ]
-
-## Past Events
-> Events attended with notes
-
--
-
-## Event Notes Template
-
-When attending events, capture:
-- Key speakers and topics
-- Important announcements
-- Networking contacts
-- Action items
-
-## Related
-
-- [[research/_index|Research Papers]]
-
----
-#moc #events
+- [AWS GenAI Partner Builder Pre-Sales](workshops/aws-genai-partner-builder-presales.md) — Bedrock partner enablement
+- [Unlocking Observability](workshops/unlocking-observability.md) — Monitoring and observability
+- [Rubric-Based Evaluation for GenAI](workshops/rubric-based-evaluation-genai.md) — LLM evaluation methods
