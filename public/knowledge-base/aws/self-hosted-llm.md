@@ -349,6 +349,7 @@ Bedrock supports automatic cross-region routing at no extra cost. Enable it for:
 
 ## References
 
+- [VRAM Calculator](https://apxml.com/tools/vram-calculator) — Quick calculator for model VRAM requirements
 - [vLLM docs](https://docs.vllm.ai/)
 - [AWS EC2 GPU instances](https://aws.amazon.com/ec2/instance-types/#Accelerated_Computing)
 - [EC2 instance types by region](https://docs.aws.amazon.com/ec2/latest/instancetypes/ec2-instance-regions.html)
