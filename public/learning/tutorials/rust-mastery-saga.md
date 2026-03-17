@@ -30,14 +30,14 @@ Pattern การตั้งคำถาม
 3. ลองพยายามแก้ไขอะไรไปแล้วบ้าง
 ## Module 2
 ## Website
-- [[HTML]]
-- [[CSS]]
-- [[JavaScript]]
+- HTML
+- CSS
+- JavaScript
 ## Frontend
 Tech Stack : HTML, CSS, JavaScript, Framework
 ## Backend
 Tech Stack : Rust, Kotlin, Go, Database, Infrastructure
-## [[OSI Model]]
+## OSI Model
 ประกอบด้วย 7 Layers
 - Application 
 - Presentation
@@ -53,29 +53,29 @@ TCP/IP Model
 - Network 
 - Data Link 
 - Physical 
-[[UDP (User Datagram Protocol)]]
+UDP (User Datagram Protocol)
 - Client ส่ง Request ไป Server Response กลับมา
 - Connectionless
 - Fast, Risky
-[[TCP (Transmission Control Protocol)]]
+TCP (Transmission Control Protocol)
 - Client ส่ง Syn ไปก่อนเพื่อดูความพร้อมของ Server แล้วให้ Server ส่ง Syn-Ack มาก่อนที่จะ Client จะเริ่มเชื่อมต่อด้วย Ack
 - ปลอดภัยกว่า
 
-[[HTTP (Hyper Text Transfer Protocol)]]
+HTTP (Hyper Text Transfer Protocol)
 - ก่อนเริ่มใช้งาน จะเชื่อมต่อกันด้วย TCP ก่อนเสมอ
 - จากนั้น Client จะส่ง HTTP Request ไป แล้ว Server จะส่งข้อมูลกลับมาพร้อม HTTP Status Code
 - ใช้กับการส่งข้อมูลบน Web และ API
 
-[[HTTPS (Hyper Text Transfer Protocol Secure)]]
+HTTPS (Hyper Text Transfer Protocol Secure)
 - HTTP + SSL
 - ใช้ Encryption เพื่อเข้ารหัส Data ที่ส่งหากันระหว่าง Client และ Server
-[[API (Application Programming Interface)]]
-- [[RESTful API]]
-- [[JWT (JSON Web Token)]] ใช้ยืนยันตัวตน
+API (Application Programming Interface)
+- RESTful API
+- JWT (JSON Web Token) ใช้ยืนยันตัวตน
 
 ## Module 3
 
-[[Rust]] 101
+Rust 101
 - สร้างโปรเจคใหม่ด้วย `cargo new ชื่อโปรเจค`
 - เริ่มต้นด้วย `main.rs` และ `Cargo.toml`
 - ใช้ `cargo run` สำหรับการรันโปรเจค

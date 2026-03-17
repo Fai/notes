@@ -1,15 +1,6 @@
 # Events
 
-Notes from conferences, hackathons, and workshops.
-
-## Conferences
-
-- [KBTG Techtopia 2025](conferences/kbtg-techtopia-2025.md) — KBTG annual tech conference
-- [Tech Sauce Global Summit 2025](conferences/tech-sauce-global-summit-2025.md) — Bangkok tech summit
-
-## Hackathons
-
-- [AI Thailand Hackathon 2025](hackathons/ai-thailand-hackathon-2025.md) — National AI competition
+Notes from workshops and training sessions.
 
 ## Workshops
 

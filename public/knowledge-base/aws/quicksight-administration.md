@@ -222,5 +222,5 @@ results = deleter.batch_delete(accounts, dry_run=True)
 
 ## Related Articles
 
-- [[account-closure-automation]] - AWS account closure
-- [[cost-optimization]] - Cost management strategies
+- [Account Closure Automation](account-closure-automation.md) - AWS account closure
+- Cost optimization - Cost management strategies

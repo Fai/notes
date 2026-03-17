@@ -116,14 +116,7 @@ Nova Micro / Lite / Canvas / Reel
 Customization & Batch Inference, Guardrails, Evaluation & Bedrock Knowledge BasesBedrock Agents
 
 ## [Data & AI PB] Amazon Nova multimodal understanding workshop
-```
-# Workshop temporary credentials (redacted)
-export AWS_DEFAULT_REGION="us-west-2"
-export AWS_ACCESS_KEY_ID="<REDACTED>"
-export AWS_SECRET_ACCESS_KEY="<REDACTED>"
-export AWS_SESSION_TOKEN="<REDACTED>"
-```
-`https://github.com/aws-samples/amazon-nova-samples/tree/main/customization/SageMakerTrainingJobs/getting_started`
+Workshop repo: [amazon-nova-samples](https://github.com/aws-samples/amazon-nova-samples/tree/main/customization/SageMakerTrainingJobs/getting_started)
 
 12:30 - 13:30 Lunch Break
 
@@ -159,50 +152,7 @@ Security as the first principle
 14:30 - 16:30 Workshop - Building Agentic Workflows on AWS
 Agentic workflow with Strands, Agentic workflow with Sagemaker, AI Vibe coding with Kiro
 
-```
-# Workshop temporary credentials (redacted)
-export AWS_DEFAULT_REGION="us-west-2"
-export AWS_ACCESS_KEY_ID="<REDACTED>"
-export AWS_SECRET_ACCESS_KEY="<REDACTED>"
-export AWS_SESSION_TOKEN="<REDACTED>"
-```
-```
-AgentCoreRoleArn
-<REDACTED_ARN>
-agent-workshop-cfn
-ARN of the IAM role for Strands Agents workshop
-output
-AgentCoreRoleName
-agentcore-agent-role
-agent-workshop-cfn
-Name of the IAM role for Strands Agents workshop
-output
-Password
-<REDACTED>
-agent-workshop-cfn
-Code-server Password
-<REDACTED>
-RDPAddress
-<REDACTED>
-agent-workshop-cfn
-RDP connection address (IP:port)
-output
-RDPPassword
-<REDACTED>
-agent-workshop-cfn
-Password for RDP access
-output
-RDPUsername
-<REDACTED>
-agent-workshop-cfn
-Username for RDP access
-output
-URL
-https://<REDACTED>
-agent-workshop-cfn
-Code-server URL
-output
-```
+*Workshop environment credentials removed for security.*
 
 16:30 - 17:30 Bedrock v/s Sagemaker AI
 Bedrock Cost Optimization, Quiz + Wrap-up, pre-trained v/s custom models, cost optimization techniques

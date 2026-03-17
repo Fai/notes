@@ -203,6 +203,6 @@ aws cloudwatch put-metric-alarm \
 
 ## Related Articles
 
-- [[bedrock-knowledge-bases]] - RAG with Bedrock
-- [[ai-ml-governance]] - Enterprise AI governance
-- [[cost-optimization]] - General AWS cost optimization
+- [Bedrock Knowledge Bases](bedrock-knowledge-bases.md) - RAG with Bedrock
+- [AI/ML Governance](ai-ml-governance.md) - Enterprise AI governance
+- Cost optimization - General AWS cost optimization

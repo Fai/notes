@@ -11,7 +11,7 @@ created: 2026-02-26
 **Time:** 10:00 AM ICT
 [Recording](https://event.on24.com/wcc/r/5011107/F0C5FC9A990E616C1347AD61DA26EC03?mode=login&email=user@example.com&mkt_tok=OTg0LVhIRS0xMzgAAAGb2j9BLMg46C7ZOm0ZfhGgh9_3Nu4b_s780l_XMFYJqLXncnPSxSSpkyCV3EOHHsKvOEz8LItOvPLuSE7l0Uo-tXcort489hbIdWDiQlQmSuL5NoWe)
 # Observability Best Practice
-[[Jirayut Nimsaeng (Dear)]]
+Jirayut Nimsaeng (Dear)
 
 Application Modernization Platform
 - DevSecOps Tool

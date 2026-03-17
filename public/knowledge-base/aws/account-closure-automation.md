@@ -169,6 +169,6 @@ cloud-nuke aws --older-than 2d
 
 ## Related Articles
 
-- [[quicksight-administration]] - QuickSight batch unsubscribe
-- [[security-incident-investigation]] - Security cleanup procedures
-- [[cost-optimization]] - Cost management strategies
+- [QuickSight Administration](quicksight-administration.md) - QuickSight batch unsubscribe
+- [Security Incident Investigation](security-incident-investigation.md) - Security cleanup procedures
+- Cost optimization - Cost management strategies

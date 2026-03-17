@@ -177,6 +177,6 @@ Automated Decision
 
 ## Related Articles
 
-- [[bedrock-knowledge-bases]] - RAG implementation
-- [[bedrock-cost-control]] - Cost management
-- [[security-checklist]] - Security best practices
+- [Bedrock Knowledge Bases](bedrock-knowledge-bases.md) - RAG implementation
+- [Bedrock Cost Control](bedrock-cost-control.md) - Cost management
+- Security checklist - Security best practices

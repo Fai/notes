@@ -14,7 +14,3 @@ Study guides for AWS exams — foundational through specialty.
 - [LLM Interview Questions](tutorials/llm-interview-questions.md) — Common LLM/AI interview prep
 - [Rust Mastery Saga](tutorials/rust-mastery-saga.md) — Rust learning path
 - [Getting Started as Software Tester](tutorials/getting-started-software-tester.md) — QA fundamentals
-
-## Programs
-
-- [Super AI Engineer SS5](programs/super-ai-engineer-ss5.md) — AIAT national AI training program

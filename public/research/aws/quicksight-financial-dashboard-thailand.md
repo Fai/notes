@@ -946,7 +946,7 @@ API (SET SMART/Alpha Vantage)
 
 ## Related
 
-- [[research/aws/_index|AWS Research MOC]]
+- [AWS Research MOC](_index.md)
 
 ---
 

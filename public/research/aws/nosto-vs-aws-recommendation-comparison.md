@@ -114,5 +114,5 @@ Nosto equivalent at this scale: custom quote, typically $500–$2,000+/month for
 
 ## Related
 
-- [[research/aws/aws-recommendation-personalization-services-2025|AWS Recommendation & Personalization Services — Pre-Sales Brief]]
-- [[journal/daily/2026-02-26-kadokawa-meeting|KADOKAWA Meeting Note 2026-02-26]]
+- [AWS Recommendation & Personalization Services — Pre-Sales Brief](aws-recommendation-personalization-services-2025.md)
+- KADOKAWA Meeting Note 2026-02-26 (internal)
