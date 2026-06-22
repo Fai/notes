@@ -4,7 +4,6 @@ tags: [aws, security, incident-response, cloudtrail, iam]
 created: 2025-12-18
 updated: 2025-12-18
 ---
-title: "Security Incident Investigation"
 
 # AWS Security Incident Investigation Guide
 

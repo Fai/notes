@@ -4,7 +4,6 @@ tags: [database, troubleshooting, connectivity, connection-pool]
 created: 2025-12-18
 updated: 2025-12-18
 ---
-title: "Database Connection Troubleshooting"
 
 # Database Connection Troubleshooting
 
@@ -93,12 +92,12 @@ SHOW STATUS LIKE 'Threads_connected';
 
 ### PostgreSQL
 ```
-postgresql://user:pass@host:5432/db?sslmode=require&connect_timeout=10
+postgresql://<connection-string-from-secrets-manager>?sslmode=require&connect_timeout=10
 ```
 
 ### MySQL
 ```
-mysql://user:pass@host:3306/db?ssl=true&connectTimeout=10000
+mysql_url=<connection-string-from-secrets-manager>?ssl=true&connectTimeout=10000
 ```
 
 ### With Connection Pool (Node.js)
@@ -107,8 +106,8 @@ mysql://user:pass@host:3306/db?ssl=true&connectTimeout=10000
   host: 'endpoint',
   port: 5432,
   database: 'db',
-  user: 'user',
-  password: 'pass',
+  user:<user>,
+  password:<stored-in-bitwarden>,
   ssl: { rejectUnauthorized: false },
   max: 20,
   idleTimeoutMillis: 30000,

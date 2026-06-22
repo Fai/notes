@@ -4,7 +4,6 @@ tags: [best-practices, cost, aws, optimization]
 created: 2025-12-18
 updated: 2025-12-18
 ---
-title: "Cost Optimization"
 
 # AWS Cost Optimization Guide
 

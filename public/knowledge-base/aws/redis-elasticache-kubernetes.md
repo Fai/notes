@@ -4,7 +4,6 @@ tags: [aws, redis, elasticache, kubernetes, caching]
 created: 2025-12-18
 updated: 2025-12-18
 ---
-title: "Redis ElastiCache on Kubernetes"
 
 # Redis & ElastiCache in Kubernetes
 

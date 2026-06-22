@@ -4,7 +4,6 @@ tags: [best-practices, security, aws, checklist]
 created: 2025-12-18
 updated: 2025-12-18
 ---
-title: "Security Checklist"
 
 # AWS Security Checklist
 

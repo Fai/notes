@@ -4,7 +4,6 @@ tags: [aws, ebs, storage, migration, kubernetes]
 created: 2025-12-18
 updated: 2025-12-18
 ---
-title: "EBS gp3 Migration"
 
 # EBS GP3 Migration Guide
 

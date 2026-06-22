@@ -4,7 +4,6 @@ tags: [aws, kafka, msk, messaging, troubleshooting]
 created: 2025-12-18
 updated: 2025-12-18
 ---
-title: "Kafka MSK Troubleshooting"
 
 # Kafka / MSK Troubleshooting
 

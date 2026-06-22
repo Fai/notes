@@ -4,7 +4,6 @@ tags: [aws, rds, database, postgresql, troubleshooting]
 created: 2025-12-18
 updated: 2025-12-18
 ---
-title: "RDS Connectivity Troubleshooting"
 
 # RDS Connectivity Troubleshooting Guide
 
@@ -38,11 +37,11 @@ RDS Connection Issue
 
 ### 1. SSL/TLS Configuration (Most Common)
 ```
-# PostgreSQL connection string with SSL
-postgresql://user:pass@host:5432/db?sslmode=require
+# PostgreSQL connection string with SSL (load from secrets manager)
+postgresql://<connection-string-from-secrets-manager>?sslmode=require
 
-# MySQL connection string with SSL
-mysql://user:pass@host:3306/db?ssl=true
+# MySQL connection string with SSL (load from secrets manager)
+mysql_url=<connection-string-from-secrets-manager>?ssl=true
 ```
 
 ### 2. Security Group Rules

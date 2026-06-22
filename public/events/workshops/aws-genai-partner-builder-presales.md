@@ -6,7 +6,7 @@ created: 2026-02-26
 
 # AWS Data & Generative AI Partner Builder
 
-# Schedule
+## Schedule
 
 Timings (Duration) Session Title Sub-topics
 
@@ -14,7 +14,7 @@ Timings (Duration) Session Title Sub-topics
 GenAI Path to Production, MLOps / FMOps / GenAIOps
 
 
-# Gen AI Strategy - From Ideation (POC) to Production
+## Gen AI Strategy — From Ideation (POC) to Production
 - AI Agent (task-oriented) vs Agentic AI (goal-oriented) from an agent dedicated to one task to help with the human to the system that running multiple agents to achive the tasks
 ## Gen AI Application life cycle
 - ideation (from customer) 
@@ -62,7 +62,7 @@ make assumption for cost of ownership then roi
 - how many queries, cost
 - how much money we are saving
 
-# Builidng
+## Building
 Data
 - data is your differentiator
 - data sources 
@@ -166,7 +166,7 @@ SageMaker
 BedRock
 - Token-based
 ## Accelerate AI Development
-## Develop8ing proprietary
+## Developing proprietary
 SageMaker
 - You should have access to labeled data, e.g., huggingface, universities. 
 - Select the fine-tuning techniques and algorithms, each has own use case, advantage and disadvantage

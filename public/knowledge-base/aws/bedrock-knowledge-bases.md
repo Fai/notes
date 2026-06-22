@@ -4,7 +4,6 @@ tags: [aws, bedrock, ai-ml, rag, knowledge-base]
 created: 2025-12-18
 updated: 2025-12-18
 ---
-title: "Bedrock Knowledge Bases"
 
 # Amazon Bedrock Knowledge Bases Guide
 

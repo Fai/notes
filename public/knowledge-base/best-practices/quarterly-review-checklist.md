@@ -4,7 +4,6 @@ tags: [best-practices, documentation, review, maintenance]
 created: 2025-12-18
 updated: 2025-12-18
 ---
-title: "Quarterly Review Checklist"
 
 # Quarterly Documentation Review Checklist
 
